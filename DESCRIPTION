@@ -1,0 +1,9 @@
+Package: sklearnPCA
+Type: Package
+Title: sklearnPCA
+Version: 1.0
+Date: 2017-10-28
+Author: Erik Doffagne
+Maintainer: Erik Doffagne <erik.doffagne@gmail.com>
+Description: Small package that demonstrates how Python can be called from R using reticulate. 
+License: BSD
